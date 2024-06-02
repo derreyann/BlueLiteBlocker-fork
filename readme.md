@@ -1,4 +1,4 @@
-# ![Logo](BlueLiteBlocker/icons/logo-48.png) BlueLiteBlocker (v0.0.0.9)
+# ![Logo](BlueLiteBlocker/icons/logo-48.png) BlueLiteBlocker forked to fix url change from twitter.com to x.com
 
 **Blue Checks are known to the state of California to cause eye damage and reproductive harm.**
 
